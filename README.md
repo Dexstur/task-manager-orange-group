@@ -85,7 +85,3 @@ deletes task with given id
 - **Method:** GET
 
 fetch todo from JSONPlaceholder. ID must be between 1 and 200
-
-```
-
-```
