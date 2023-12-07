@@ -46,7 +46,7 @@
 
 ---
 
-Operation: Update Task
+#### Operation: Update Task
 
 - **URL:** "/tasks/{id}"
 - **Method:** PUT
@@ -56,8 +56,9 @@ Operation: Update Task
     "title": "Example title",
     "description": "Example description"
   }
-  updates a task with given id (note: At least one of title or description must be provided)
   ```
+
+updates a task with given id (note: At least one of title or description must be provided)
 
 ---
 
@@ -73,7 +74,8 @@ Operation: Update Task
 
 - **URL:** "/tasks/{id}"
 - **Method:** DELETE
-  deletes task with given id
+
+deletes task with given id
 
 ---
 
@@ -81,4 +83,9 @@ Operation: Update Task
 
 - **URL:** "/mock/{id}"
 - **Method:** GET
-  fetch todo from JSONPlaceholder. ID must be between 1 and 200
+
+fetch todo from JSONPlaceholder. ID must be between 1 and 200
+
+```
+
+```
