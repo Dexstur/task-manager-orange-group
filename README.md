@@ -4,4 +4,4 @@ TASK MANAGER API
 
 CRUD Documentatation
 
-All placeholders are shown with angular brackets(eg: <placeholder>)
+All placeholders are shown with angular brackets(eg: {placeholder})
